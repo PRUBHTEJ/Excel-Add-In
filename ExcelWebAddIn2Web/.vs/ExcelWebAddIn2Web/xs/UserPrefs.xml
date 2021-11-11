@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{81E9F544-A9FF-4C17-ABC7-DE77B98FADC8}|">
+  <MonoDevelop.Ide.ItemProperties.ExcelWebAddIn2Web PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="../ExcelWebAddIn2/ExcelWebAddIn2.csproj">
+    <Files>
+      <File FileName="../ExcelWebAddIn2/ExcelWebAddIn2.csproj" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ExcelWebAddIn2Web" expanded="True" selected="True">
+            <Node name="ExcelWebAddIn2Web" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
